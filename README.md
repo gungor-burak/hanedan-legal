@@ -25,5 +25,5 @@ Edit the HTML files, bump the "Effective date" at the top, commit, push. Pages u
 
 ## Owner
 
-9ER Games (Burak Güngör)
+Burak Güngör
 9er.game@gmail.com
